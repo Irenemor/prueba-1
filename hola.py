@@ -1,1 +1,1 @@
-prin t("Hola Irene , mundo!")
+print("Hola Irene , vamos a continuar con la practica!")
