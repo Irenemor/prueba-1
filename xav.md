@@ -1,4 +1,5 @@
 # Irene
 ## Morales
-
-Bioquimica
+### Bioquimica
+Residente en Madrid
+Nacida en La Rioja, Logroño.
